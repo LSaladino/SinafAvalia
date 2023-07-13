@@ -31,3 +31,16 @@ C:\workspace\SinafAvalia\sinafavalia.api\obj\Debug\net7.0\refint\sinafavalia.api
 C:\workspace\SinafAvalia\sinafavalia.api\obj\Debug\net7.0\sinafavalia.api.pdb
 C:\workspace\SinafAvalia\sinafavalia.api\obj\Debug\net7.0\sinafavalia.api.genruntimeconfig.cache
 C:\workspace\SinafAvalia\sinafavalia.api\obj\Debug\net7.0\ref\sinafavalia.api.dll
+C:\workspace\SinafAvalia\sinafavalia.api\bin\Debug\net7.0\AWSSDK.Core.dll
+C:\workspace\SinafAvalia\sinafavalia.api\bin\Debug\net7.0\AWSSDK.SecurityToken.dll
+C:\workspace\SinafAvalia\sinafavalia.api\bin\Debug\net7.0\DnsClient.dll
+C:\workspace\SinafAvalia\sinafavalia.api\bin\Debug\net7.0\MongoDB.Bson.dll
+C:\workspace\SinafAvalia\sinafavalia.api\bin\Debug\net7.0\MongoDB.Driver.dll
+C:\workspace\SinafAvalia\sinafavalia.api\bin\Debug\net7.0\MongoDB.Driver.Core.dll
+C:\workspace\SinafAvalia\sinafavalia.api\bin\Debug\net7.0\MongoDB.Libmongocrypt.dll
+C:\workspace\SinafAvalia\sinafavalia.api\bin\Debug\net7.0\SharpCompress.dll
+C:\workspace\SinafAvalia\sinafavalia.api\bin\Debug\net7.0\Snappier.dll
+C:\workspace\SinafAvalia\sinafavalia.api\bin\Debug\net7.0\ZstdSharp.dll
+C:\workspace\SinafAvalia\sinafavalia.api\bin\Debug\net7.0\runtimes\linux\native\libmongocrypt.so
+C:\workspace\SinafAvalia\sinafavalia.api\bin\Debug\net7.0\runtimes\osx\native\libmongocrypt.dylib
+C:\workspace\SinafAvalia\sinafavalia.api\bin\Debug\net7.0\runtimes\win\native\mongocrypt.dll
